@@ -58,3 +58,5 @@ Ensure you have a modern web browser installed, such as Google Chrome or Mozilla
 ## Contribute
 
 Contributions are welcome! Feel free to submit issues or pull requests for improvements, bug fixes, or additional features.
+
+If you like this project, please give a star.
