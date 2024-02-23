@@ -36,7 +36,7 @@ Ensure you have a modern web browser installed, such as Google Chrome or Mozilla
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/dom-manipulation-todo.git
+   git clone https://github.com/fajlay-rabbi/js-dom-todo-manager.git
 
 2. Open the index.html file in your preferred web browser.
 
